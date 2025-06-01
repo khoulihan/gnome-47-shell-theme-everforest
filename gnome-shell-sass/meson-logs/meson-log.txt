@@ -1,0 +1,11 @@
+Build started at 2025-05-31T19:41:02.196632
+Main binary: /usr/bin/python3
+Build Options: 
+Python system: Linux
+The Meson build system
+Version: 1.5.1
+Source dir: /home/kevin/Development/gnome-shell/gnome-shell-gnome-47-data-theme-everforest/data/theme
+Build dir: /home/kevin/Development/gnome-shell/gnome-shell-gnome-47-data-theme-everforest/data/theme/gnome-shell-sass
+Build type: native build
+
+ERROR: Invalid source tree: first statement must be a call to project()
