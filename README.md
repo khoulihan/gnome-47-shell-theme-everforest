@@ -17,3 +17,6 @@ the `sassc` command directly:
 
 `sassc -a ./gnome-shell-dark.scss ~/.themes/everforest-dark-shell/gnome-shell/gnome-shell.css`
 
+## Migration
+
+This repository has been [migrated to Codeberg](https://codeberg.org/khoulihan/gnome-47-shell-theme-everforest), though it is unlikely to receive any further updates anyway.
